@@ -3,9 +3,9 @@
 <h2>Data Science Projects:</h2>
 
 - <b>Automatidata Project (Google Advanced Data Analytics)</b>
-  - [Automatidata (In-Module Project)](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Automatidata (In-Module Project)](https://github.com/fouzan-akhter/automatidata_project)
 - <b>Salifort Motors Project (Google Advanced Data Analytics)</b>
-  - [Salifort Motors (Capstone Project)](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
+  - [Salifort Motors (Capstone Project)](https://github.com/fouzan-akhter/salifortmotors_project) <b><i></b></i>
 
 <h2>Certifications</h2>
 
