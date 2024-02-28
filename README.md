@@ -6,6 +6,12 @@
   - [Automatidata (In-Module Project)](https://github.com/fouzan-akhter/automatidata_project)
 - <b>Salifort Motors Project (Google Advanced Data Analytics)</b>
   - [Salifort Motors (Capstone Project)](https://github.com/fouzan-akhter/salifortmotors_project) <b><i></b></i>
+- <b>Webscraping Projects</b>
+  - [CNBC Webscraper](https://github.com/fouzan-akhter/cnbc-webscraper)
+  - [BestBuy Webcraper](https://github.com/fouzan-akhter/bestbuy-webscraper)
+  - [BBC News Webscraper](https://github.com/fouzan-akhter/bbcnews-webscraper)
+  - [Yahoo Finance Webscraper](https://github.com/fouzan-akhter/yahoofinance-webscraper)
+  - [Business Recorder Webscraper](https://github.com/fouzan-akhter/businessrecorder-webscraper)
 
 <h2>Certifications</h2>
 
