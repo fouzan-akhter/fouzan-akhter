@@ -1,44 +1,60 @@
-<h1>Muhammad Fouzan Akhter <br/><a href="https://github.com/fouzan-akhter">Data Science |</a> <a href="https://github.com/fouzan-akhter">Machine Learning | AI</a> <a href="https://github.com/fouzan-akhter"></a></h1>
+<h1 align="center";>
+  Muhammad Fouzan Akhter
+</h1>
 
-<h2>Data Science Projects:</h2>
+<h3 align="center";>
+  <a href="https://github.com/fouzan-akhter">( Data Science</a> |
+  <a href="https://github.com/fouzan-akhter">Machine Learning</a> |
+  <a href="https://github.com/fouzan-akhter">Artificial Intelligence )</a>
+</h3>
 
-- <b>Automatidata Project (Google Advanced Data Analytics)</b>
-  - [Automatidata (In-Module Project)](https://github.com/fouzan-akhter/automatidata_project)
-- <b>Salifort Motors Project (Google Advanced Data Analytics)</b>
-  - [Salifort Motors (Capstone Project)](https://github.com/fouzan-akhter/salifortmotors_project) <b><i></b></i>
-- <b>Webscraping Projects</b>
-  - [CNBC Webscraper](https://github.com/fouzan-akhter/cnbc-webscraper)
-  - [BestBuy Webcraper](https://github.com/fouzan-akhter/bestbuy-webscraper)
-  - [BBC News Webscraper](https://github.com/fouzan-akhter/bbcnews-webscraper)
-  - [Yahoo Finance Webscraper](https://github.com/fouzan-akhter/yahoofinance-webscraper)
-  - [Business Recorder Webscraper](https://github.com/fouzan-akhter/businessrecorder-webscraper)
+<br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&duration=2000&color=000000&center=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Data+Science;Generative+AI;Machine+Learning;Neural+Networks;Artificial+Intelligence;Application+Development" alt="Typing SVG">
+</p>
+
+---
+
+<h2>Explore Projects:</h2>
+
+- **<a href="https://github.com/fouzan-akhter/Employee-Attrition-Analysis-and-Prediction">Employee Attrition Analysis and Prediction</a>** (<i>Data Intelligence | Machine Learning | Logistic Regression | EDA</i>)
+
+- **<a href="https://github.com/fouzan-akhter/Conversational-RAG-for-Websites">Conversational-RAG-for-Websites</a>** (<i>RAG Application Development | LangChain | OpenAI API | Streamlit | Chatbot</i>)
+
+- **<a href="https://github.com/fouzan-akhter/Custom-WebScrapers">Custom Web-Scrapers</a>** (<i>Web Sccraping Bots | Selenium | Beautiful Soup | Requests | Pandas | WebDriver</i>)
+  
+- **<a href="https://github.com/fouzan-akhter/Fare-and-Tip-Prediction-Model">Fare and Tip Prediction Model</a>** (<i>Hypothesis Testing | Comparative Analysis | Random Forest | XGBoost | Linear Regression</i>)
+
+<br>
+
+<h2>Languages & Tools:</h2>
+
+
+<br>
 
 <h2>Certifications</h2>
 
-- [Google Advanced Data Analytics Certificate](https://www.credly.com/badges/dd8b1fd9-c470-4e01-971e-4bff05077913/public_url)
-  
-<h2> Connect with me:</h2>
+- <b><a href="https://www.credly.com/badges/dd8b1fd9-c470-4e01-971e-4bff05077913/public_url">Google Advanced Data Analytics Certificate</a></b>
 
-[<img align="left" alt="FouzanAkhter | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="FouzanAkhter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+<br>
+
+<h2>Connect with me:</h2>
+
 [<img align="left" alt="FouzanAkhter | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="FouzanAkhter | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="FouzanAkhter | X (formerly Twitter)" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@12.1.0/icons/x.svg" />][x]
+[<img align="left" alt="FouzanAkhter | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@12.1.0/icons/github.svg" />][github]
+[<img align="left" alt="FouzanAkhter | Upwork" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@12.1.0/icons/upwork.svg" />][upwork]
 
-[twitter]: https://github.com/fouzan-akhter
-[youtube]: https://github.com/fouzan-akhter
-[instagram]: https://github.com/fouzan-akhter
-[linkedin]: https://github.com/fouzan-akhter
-<!--
-**fouzan-akhter/fouzan-akhter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[linkedin]: https://www.linkedin.com/in/fouzan-akhter/
+[x]: https://github.com/fouzan-akhter
+[github]: https://github.com/fouzan-akhter
+[upwork]: https://www.upwork.com/freelancers/~019789c3a540248cea
 
-Here are some ideas to get you started:
+<br>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=fouzan-akhter&color=brightgreen" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/fouzan-akhter?label=Follow&style=social" alt="GitHub Followers" />
+</p>
