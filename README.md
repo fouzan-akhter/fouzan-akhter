@@ -48,8 +48,11 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" alt="python" width="50" height="50"/>
     <img src="https://avatars.githubusercontent.com/u/22799945?s=200&v=4" alt="python" width="50" height="50"/>
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/openai-icon.png" alt="python" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Google_Bard_logo.svg/600px-Google_Bard_logo.svg.png" alt="python" width="50" height="50"/>
     <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="python" width="50" height="50"/>
+    <img src="https://media.licdn.com/dms/image/D560BAQG9xmVJ1T-kpw/company-logo_200_200/0/1692647640068?e=1726099200&v=beta&t=J5-sM8CVIGY6ihRIwONVGmnf_XcKC9qh1ZNPGcc1YDs" alt="python" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="python" width="50" height="50"/>
+    <img src="https://media.licdn.com/dms/image/D560BAQGTObF4UNvy4A/company-logo_200_200/0/1708009961301/langchain_logo?e=2147483647&v=beta&t=mPOYYuAhfsnYyRk0k2Dlhzz20abcPc1dbWxQRAiHFPE" alt="python" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="python" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original.svg" alt="python" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="python" width="50" height="50"/>
@@ -60,8 +63,8 @@
     <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="python" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="python" width="50" height="50"/>
     <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="python" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="python" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" alt="python" width="50" height="50"/>
-
 </p>
 
 <br>
