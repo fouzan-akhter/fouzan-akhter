@@ -7,11 +7,9 @@
   <a href="https://github.com/fouzan-akhter">Machine Learning</a> |
   <a href="https://github.com/fouzan-akhter">Artificial Intelligence )</a>
 </h3>
-
 <br>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&duration=2000&color=000000&center=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Data+Science;Generative+AI;Machine+Learning;Neural+Networks;Artificial+Intelligence;Application+Development" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=25&pause=500&duration=2000&color=000000&center=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Data+Science;Generative+AI;Machine+Learning;Neural+Networks;Artificial+Intelligence;Application+Development" alt="Typing SVG">
 </p>
 
 ---
@@ -30,14 +28,53 @@
 
 <h2>Languages & Tools:</h2>
 
+<p align="left" style="display: flex; gap: 20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="python" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="python" width="50" height="50"/>
+    <img src="https://scipy.org/images/logo.svg" alt="python" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="python" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="python" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="python" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" alt="python" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" alt="python" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" alt="python" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" alt="python" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="python" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="python" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" alt="python" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" alt="python" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="python" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" alt="python" width="50" height="50"/>
+    <img src="https://avatars.githubusercontent.com/u/22799945?s=200&v=4" alt="python" width="50" height="50"/>
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/openai-icon.png" alt="python" width="50" height="50"/>
+    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="python" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="python" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="python" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original.svg" alt="python" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="python" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="python" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="python" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="python" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="python" width="50" height="50"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="python" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="python" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="python" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" alt="python" width="50" height="50"/>
+
+</p>
 
 <br>
 
-<h2>Certifications</h2>
+<h2>Certifications & Courses</h2>
 
 - <b><a href="https://www.credly.com/badges/dd8b1fd9-c470-4e01-971e-4bff05077913/public_url">Google Advanced Data Analytics Certificate</a></b>
+- <b><a href="https://www.credly.com/badges/dd8b1fd9-c470-4e01-971e-4bff05077913/public_url">IBM Data Science Professional Certificate</a></b>
+- <b><a href="https://www.credly.com/badges/dd8b1fd9-c470-4e01-971e-4bff05077913/public_url">IBM Data Analyst Professional Certificate</a></b>
+- <b><a href="https://www.credly.com/badges/dd8b1fd9-c470-4e01-971e-4bff05077913/public_url">SQL Basics for Data Science Specialization (UC Davis)</a></b>
+- <b><a href="https://www.credly.com/badges/dd8b1fd9-c470-4e01-971e-4bff05077913/public_url">Kaggle Feature Engineering Course</a></b>
 
-<br>
+<br> 
 
 <h2>Connect with me:</h2>
 
