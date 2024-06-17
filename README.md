@@ -20,6 +20,8 @@
 
 - **<a href="https://github.com/fouzan-akhter/Conversational-RAG-for-Websites">Conversational-RAG-for-Websites</a>** (<i>RAG Application Development | LangChain | OpenAI API | Streamlit | Chatbot</i>)
 
+- **<a href="https://github.com/fouzan-akhter/Spacecraft-Touchdown-Predictor-and-Analytics">Spacecraft Touchdown Predictor & Analysis</a>** (<i>Business Intelligence | Machine Learning | Geospatial Analysis | Interactive Dashboards | SQL</i>)
+
 - **<a href="https://github.com/fouzan-akhter/Custom-WebScrapers">Custom Web-Scrapers</a>** (<i>Web Sccraping Bots | Selenium | Beautiful Soup | Requests | Pandas | WebDriver</i>)
   
 - **<a href="https://github.com/fouzan-akhter/Fare-and-Tip-Prediction-Model">Fare and Tip Prediction Model</a>** (<i>Hypothesis Testing | Comparative Analysis | Random Forest | XGBoost | Linear Regression</i>)
