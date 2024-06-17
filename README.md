@@ -86,11 +86,13 @@
 [<img align="left" alt="FouzanAkhter | X (formerly Twitter)" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@12.1.0/icons/x.svg" />][x]
 [<img align="left" alt="FouzanAkhter | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@12.1.0/icons/github.svg" />][github]
 [<img align="left" alt="FouzanAkhter | Upwork" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@12.1.0/icons/upwork.svg" />][upwork]
+[<img align="left" alt="FouzanAkhter | Credly" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@12.1.0/icons/credly.svg" />][credly]
 
 [linkedin]: https://www.linkedin.com/in/fouzan-akhter/
 [x]: https://github.com/fouzan-akhter
 [github]: https://github.com/fouzan-akhter
 [upwork]: https://www.upwork.com/freelancers/~019789c3a540248cea
+[credly]: https://www.credly.com/users/fouzan.akhter
 
 <br>
 <br>
