@@ -20,7 +20,7 @@
 
 - **<a href="https://github.com/fouzan-akhter/Conversational-RAG-for-Websites">Conversational-RAG-for-Websites</a>** (<i>RAG Application Development | LangChain | OpenAI API | Streamlit | Chatbot</i>)
 
-- **<a href="https://github.com/fouzan-akhter/Spacecraft-Touchdown-Predictor-and-Analytics">Spacecraft Touchdown Predictor & Analysis</a>** (<i>Business Intelligence | Machine Learning | Geospatial Analysis | Interactive Dashboards | SQL</i>)
+- **<a href="https://github.com/fouzan-akhter/Spacecraft-Touchdown-Predictor-and-Analytics">Spacecraft Touchdown Predictor & Analysis</a>** (<i>Business Intelligence | ML | Geospatial Analysis | Interactive Dashboards | SQL</i>)
 
 - **<a href="https://github.com/fouzan-akhter/Custom-WebScrapers">Custom Web-Scrapers</a>** (<i>Web Sccraping Bots | Selenium | Beautiful Soup | Requests | Pandas | WebDriver</i>)
   
@@ -74,10 +74,9 @@
 <h2>Certifications & Courses</h2>
 
 - <b><a href="https://www.credly.com/badges/dd8b1fd9-c470-4e01-971e-4bff05077913/public_url">Google Advanced Data Analytics Certificate</a></b>
-- <b><a href="https://www.credly.com/badges/dd8b1fd9-c470-4e01-971e-4bff05077913/public_url">IBM Data Science Professional Certificate</a></b>
+- <b><a href="https://www.credly.com/badges/a5c03ee5-9ef5-41bc-8182-df206e537c24">IBM Data Science Professional Certificate</a></b>
 - <b><a href="https://www.credly.com/badges/dd8b1fd9-c470-4e01-971e-4bff05077913/public_url">IBM Data Analyst Professional Certificate</a></b>
-- <b><a href="https://www.credly.com/badges/dd8b1fd9-c470-4e01-971e-4bff05077913/public_url">SQL Basics for Data Science Specialization (UC Davis)</a></b>
-- <b><a href="https://www.credly.com/badges/dd8b1fd9-c470-4e01-971e-4bff05077913/public_url">Kaggle Feature Engineering Course</a></b>
+- <b><a href="https://www.kaggle.com/learn/certification/fouzanakhter/feature-engineering">Kaggle Feature Engineering Course</a></b>
 
 <br> 
 
