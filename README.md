@@ -26,7 +26,11 @@
   
 - **<a href="https://github.com/fouzan-akhter/Fare-and-Tip-Prediction-Model">Fare and Tip Prediction Model</a>** (<i>Hypothesis Testing | Comparative Analysis | Random Forest | XGBoost | Linear Regression</i>)
 
-<br>
+<be>
+
+<h2>Publications:</h2>
+
+- **<a href="https://www.ijcaonline.org/archives/volume186/number55/unveiling-the-optimal-approach-for-credit-card-fraud-detection-a-thorough-analysis-of-deep-learning-and-machine-learning-methods/">Unveiling the Optimal Approach for Credit Card Fraud Detection: A thorough Analysis of Deep Learning and Machine Learning Methods</a>** (<i>International Journal of Computer Applications, Foundation of Computer Science (FCS), NY, USA, Volume 186 - Number 55, 2024</i>)
 
 <h2>Languages & Tools:</h2>
 
@@ -52,7 +56,6 @@
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/openai-icon.png" alt="python" width="50" height="50"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Google_Bard_logo.svg/600px-Google_Bard_logo.svg.png" alt="python" width="50" height="50"/>
     <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="python" width="50" height="50"/>
-    <img src="https://media.licdn.com/dms/image/D560BAQG9xmVJ1T-kpw/company-logo_200_200/0/1692647640068?e=1726099200&v=beta&t=J5-sM8CVIGY6ihRIwONVGmnf_XcKC9qh1ZNPGcc1YDs" alt="python" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="python" width="50" height="50"/>
     <img src="https://media.licdn.com/dms/image/D560BAQGTObF4UNvy4A/company-logo_200_200/0/1708009961301/langchain_logo?e=2147483647&v=beta&t=mPOYYuAhfsnYyRk0k2Dlhzz20abcPc1dbWxQRAiHFPE" alt="python" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="python" width="50" height="50"/>
