@@ -24,7 +24,7 @@
 
 - **<a href="https://github.com/fouzan-akhter/Dividends-Monitor-and-Alert-System">Dividends Monitor and Alert System</a>** (<i>AI Automation | GitHub Actions | SUPABASE | SMTP | Email Alert System</i>)
 
-- **<a href="https://github.com/fouzan-akhter/Custom-WebScrapers">Custom Web-Scrapers</a>** (<i>Web Scraping Bots | Selenium | Beautiful Soup | Requests | Pandas | WebDriver</i>)
+- **<a href="https://github.com/fouzan-akhter/Custom-WebScrapers">Custom Webpage Scrapers</a>** (<i>Web Scraping Bots | Selenium | Beautiful Soup | Requests | Pandas | WebDriver</i>)
   
 - **<a href="https://github.com/fouzan-akhter/Fare-and-Tip-Prediction-Model">Fare and Tip Prediction Model</a>** (<i>Hypothesis Testing | Comparative Analysis | Random Forest | XGBoost | Linear Regression</i>)
 
