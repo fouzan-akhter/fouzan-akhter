@@ -18,9 +18,11 @@
 
 - **<a href="https://github.com/fouzan-akhter/Employee-Attrition-Analysis-and-Prediction">Employee Attrition Analysis and Prediction</a>** (<i>Data Intelligence | Machine Learning | Logistic Regression | EDA</i>)
 
-- **<a href="https://github.com/fouzan-akhter/Conversational-RAG-for-Websites">Conversational-RAG-for-Websites</a>** (<i>RAG Application Development | LangChain | OpenAI API | Streamlit | Chatbot</i>)
+- **<a href="https://github.com/fouzan-akhter/Conversational-RAG-for-Websites">Conversational RAG for Websites</a>** (<i>RAG Application Development | LangChain | OpenAI API | Streamlit | Chatbot</i>)
 
 - **<a href="https://github.com/fouzan-akhter/Spacecraft-Touchdown-Predictor-and-Analytics">Spacecraft Touchdown Predictor & Analysis</a>** (<i>Business Intelligence | ML | Geospatial Analysis | Interactive Dashboards | SQL</i>)
+
+- **<a href="https://github.com/fouzan-akhter/Dividends-Monitor-and-Alert-System">Dividends Monitor and Alert System</a>** (<i>AI Automation | GitHub Actions | SUPABASE | SMTP | Email Alert System</i>)
 
 - **<a href="https://github.com/fouzan-akhter/Custom-WebScrapers">Custom Web-Scrapers</a>** (<i>Web Scraping Bots | Selenium | Beautiful Soup | Requests | Pandas | WebDriver</i>)
   
