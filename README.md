@@ -16,7 +16,7 @@
 
 <h2>Explore Projects:</h2>
 
-- **<a href="https://github.com/fouzan-akhter/Employee-Attrition-Analysis-and-Prediction">Employee Attrition Analysis and Prediction</a>** (<i>Data Intelligence | Machine Learning | Logistic Regression | EDA</i>)
+- **<a href="https://github.com/fouzan-akhter/Employee-Attrition-Analysis-and-Prediction" target="_blank">Employee Attrition Analysis and Prediction</a>** (<i>Data Intelligence | Machine Learning | Logistic Regression | EDA</i>)
 
 - **<a href="https://github.com/fouzan-akhter/Conversational-RAG-for-Websites">Conversational RAG for Websites</a>** (<i>RAG Application Development | LangChain | OpenAI API | Streamlit | Chatbot</i>)
 
